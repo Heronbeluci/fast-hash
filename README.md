@@ -1,4 +1,4 @@
-string-hash
+fast-hash
 ===========
 
 A fast string hashing function for Node.JS. The particular algorithm is quite
